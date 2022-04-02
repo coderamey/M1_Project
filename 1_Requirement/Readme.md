@@ -55,3 +55,19 @@ Played on a system, using a computer
 
 # Detail requirements
 ## High Level Requirements:
+| ID     |              Description                     |     Status           |
+| ------ | -------------------------------------------- | -------------------- |
+|  HL01  | User Interface                               | Implemented          |
+|  HL02  | Creating a new game                          | Implemented          |
+|  HL03  | Managing the game played between two players | Implemented          |
+
+# Low level Requirements:
+| ID     |              Description                                                                   |     Status           |
+| ------ | ------------------------------------------------------------------------------------------ | -------------------- |
+|    01  | Menu which asks the user if they want to play a new game or leave                          | Implemented          |
+|    02  | Initialising a new game if the user chooses to play                                        | Implemented          |
+|    03  | Choosing the first player using a random function                                          | Implemented          |
+|    04  | Allowing each player to perform their moves                                                | Implemented          |
+|    05  | Analysing the moves performed to find illegal moves                                        | Implemented          | 
+|    06  |Analysing the board after every move to determine if the board is full and the game is over | Implemented          |
+|    07  |A variable to keep track of current player,so that each player's is able to play their turn | Implemented          |
