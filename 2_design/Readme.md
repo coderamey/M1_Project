@@ -10,3 +10,7 @@
 
 # Low Level Design
 ## Component Diagram
+
+![StructDia1](https://user-images.githubusercontent.com/101514346/161397262-b59a00d8-443e-490c-9cac-0997683c79ea.png)
+
+## Functional diagram
