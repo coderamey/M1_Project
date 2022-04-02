@@ -35,3 +35,23 @@ The high level system design is shown in the figure below
 
 # SWOT ANALYSIS
 
+![SWOT](https://user-images.githubusercontent.com/101514346/161384831-caa05397-d44a-40c8-b7cd-2a3a5353fdd4.png)
+
+# 4W's and 1'H
+## Who:
+For all people who want to play the game with another person, but currently don't have access to the physical components.
+
+## What:
+To recreate a popular physical game in a digital version so that people can enjoy playing it, without the hassle of searching for the required physical equipment.
+
+## When:
+Can be played anytime
+
+## Where:
+Can be played anywhere, ease of use
+
+## How:
+Played on a system, using a computer
+
+# Detail requirements
+## High Level Requirements:
