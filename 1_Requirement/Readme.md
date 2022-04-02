@@ -30,3 +30,8 @@ Resources used include a 64-bit computer and memory
 The system has a user interface which allows the players to start a new game
 Once started, the game is managed by the computer which takes care of storing the players' move's, discarding illegal moves, analysing the board after each move to find the winning move, and terminating the game if there are no moves left.
 The high level system design is shown in the figure below
+
+![SysDes](https://user-images.githubusercontent.com/101514346/161384643-cc8ceb72-5d8e-4b9d-ade2-8283c6e028a0.png)
+
+# SWOT ANALYSIS
+
